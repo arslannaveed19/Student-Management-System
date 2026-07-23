@@ -6,15 +6,15 @@
 
 **.**Add Student
 
-**.**View Student
+> View Student
 
-**.**Update Student Record
+> Update Student Record
 
-**.**Delete Student Record
+>  Delete Student Record
 
-**.**CSV Database Storage
+> CSV Database Storage
 
-**.**Menu Driven Interface
+> Menu Driven Interface
 
 ## Technologies Used
 
@@ -41,12 +41,12 @@ Student-Management-System
 
 ## Learning Outcomes
 
-Python Programming
+> Python Programming
 
-File Handling
+> File Handling
+ 
+> CSV Operations
 
-CSV Operations
+> CRUD Operations
 
-CRUD Operations
-
-Loops and Conditions
+> Loops and Conditions
