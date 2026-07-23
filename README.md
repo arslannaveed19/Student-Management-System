@@ -1,6 +1,6 @@
 # Student-Management-System
 
-**A simple Student Management System developed using Python and CSV file handling
+A simple Student Management System developed using Python and CSV file handling
 ##  About the Project
 
 This Student Management System is a beginner-friendly Python project that allows users to manage student records through a simple command-line interface. The system performs CRUD operations (Create, Read, Update, and Delete) and stores data in a CSV file, eliminating the need for a database.
