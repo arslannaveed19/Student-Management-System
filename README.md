@@ -4,17 +4,17 @@
 
 ## Features
 
-Add Student
+**.**Add Student
 
-View Student
+**.**View Student
 
-Update Student Record
+**.**Update Student Record
 
-Delete Student Record
+**.**Delete Student Record
 
-CSV Database Storage
+**.**CSV Database Storage
 
-Menu Driven Interface
+**.**Menu Driven Interface
 
 ## Technologies Used
 
@@ -29,13 +29,18 @@ Menu Driven Interface
 
 ## Project Structure
 
-Student-Management-System/
+Student-Management-System
+
 │
+
 ├── student_management.py
+
 ├── students.csv
+
 └── README.md
 
 ## Learning Outcomes
+
 Python Programming
 
 File Handling
