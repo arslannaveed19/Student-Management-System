@@ -4,7 +4,7 @@
 
 ## Features
 
->> Add Student
+1. Add Student
 
 > View Student
 
